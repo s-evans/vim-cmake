@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=600
+
+A CMake (www.cmake.org) syntax highlighting mode, which understands most of commands, reports depricated commands, highlights common arguments, strings, environment variables, registry entries, variable references.
+
+=========
+
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=599
+
+A CMake (www.cmake.org) indentation mode, which indents IF()/ELSE()/ENDIF(), FOREACH()/ENDFOREACH(), and MACRO()/ENDMACRO(), and it also supports multiline arguments to commands, quoted and non-quoted arguments.
+
+=========
+
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3045
+
+CMake reference in vimhelp format with a python script to regenerate it. 
+
